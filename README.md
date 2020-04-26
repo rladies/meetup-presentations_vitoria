@@ -18,7 +18,7 @@ R-Ladies Vitória MeetUp https://www.meetup.com/rladies-vitoria
 
 2. **[Divulgação da R-Ladies Vitória na Semana de Recepção e Integração da Estatística de 2020](https://sites.google.com/view/calouros2020-01)**
    - Apresentado por [Mariah Couto](https://www.instagram.com/mariah.couto98/?hl=pt-br) e [Gabriella Demarque](https://www.instagram.com/gabifdemarque/)
-   - **[Apresentação R-Ladies Vitória](https://github.com/agathasr/Minicursos_1WDSSL)**
+   - **[Apresentação R-Ladies Vitória](https://github.com/agathasr/Apresentacao_RLadies_VIX)**
 
 ### 2019
 3. **[Minicursos no 1º Workhop on Data Science and Statistical Learning](https://sites.google.com/view/wdssl2019)**
