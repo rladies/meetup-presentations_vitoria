@@ -22,4 +22,4 @@ R-Ladies Vitória MeetUp https://www.meetup.com/rladies-vitoria
 
 ### 2019
 3. **[Minicursos no 1º Workhop on Data Science and Statistical Learning](https://sites.google.com/view/wdssl2019)**
-   - **[Minicursos de R básico e de Visualização de dados com R](https://github.com/agathasr/Minicursos_1WDSSL)**
+   - **[Minicursos de R básico e de Visualização de dados com R](https://github.com/agathasr/Minicursos_1WDSSL_2019)**
