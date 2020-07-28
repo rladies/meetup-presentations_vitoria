@@ -14,7 +14,7 @@ R-Ladies Vitória MeetUp https://www.meetup.com/rladies-vitoria
 ### 2020
 1. **[1ª Meetup R-Ladies Vitória (online) - Um filme da sua vida com R](https://www.meetup.com/pt-BR/rladies-vitoria/events/271974702/)**
    - Apresentado por [Ornella Scardua](http://twitter.com/ornscar)  
-   - **[Apresentação 1ª Meetup da R-Ladies Vitória](https://github.com/agathasr/Apresentacao_RLadies_VIX)**
+   - **[Apresentação 1ª Meetup da R-Ladies Vitória](https://github.com/agathasr/1meetup_RLadies_VIX)**
    
 2. **[Meetup R-Ladies Vitória - Curso Básico de R / Wordcloud em R](https://www.meetup.com/pt-BR/rladies-vitoria/events/269257160/)** 
   - Em 19/3 das 19h30 até 22h30 na UFES, campus Goiabeiras. 
